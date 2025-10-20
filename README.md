@@ -1,13 +1,13 @@
-Ex. No. 9 – To Explore and Understand the Various Prompting Techniques Used for Generating Videos through AI Models
+# Ex. No. 9 – To Explore and Understand the Various Prompting Techniques Used for Generating Videos through AI Models
 
-# Date: 21/10/2025
-# Register No.: 25000527
+### Date: 21/10/2025
+### Register No.: 25000527
 
-Aim:
+# Aim:
 
 To explore and understand the various prompting techniques used in AI-based video generation and analyze how prompt specificity affects video style, realism, and motion dynamics.
 
-Algorithm:
+## Algorithm:
 
 Familiarize Yourself with Video Generation Models
 Research AI tools capable of generating videos from text prompts. Understand each tool’s input format, output type, resolution capabilities, and limitations.
