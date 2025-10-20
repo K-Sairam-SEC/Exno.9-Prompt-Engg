@@ -1,7 +1,7 @@
 Ex. No. 9 – To Explore and Understand the Various Prompting Techniques Used for Generating Videos through AI Models
 
-Date: 21/10/2025
-Register No.: 25000527
+# Date: 21/10/2025
+# Register No.: 25000527
 
 Aim:
 
